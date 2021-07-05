@@ -1,0 +1,11 @@
+.hello{
+    width: 700px;
+    background-color: lightgray;
+    border: 5px solid black;
+    font-family: cursive;
+    margin: 20px;
+    padding: 10px ;
+    border-radius: 10%;
+    height: 150px;
+    text-align: center;
+}
